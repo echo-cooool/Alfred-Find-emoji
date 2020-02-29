@@ -15,7 +15,11 @@ python2.7
 
 ## 安装
 
-请移步Releases 下载最新版本即可
+[下载地址1](https://github.com/echo-cool/Alfred3-Find-emoji/raw/master/Find%20emoji.alfredworkflow) 
+
+[下载地址2](http://photos-picgo.oss-cn-beijing.aliyuncs.com/Find-emoji.alfredworkflow)
+
+
 
 ## TODO
 
