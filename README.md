@@ -3,7 +3,7 @@
  [![GitHub license](https://img.shields.io/github/license/TKkk-iOSer/wechat-workflow.svg)](https://github.com/echo-cool/Alfred3-Find-emoji/blob/master/LICENSE)
  
 ## 预览
-![image](./u0qxs-lqzql.gif)
+![image](./demo.gif)
 
 ## Features
 
