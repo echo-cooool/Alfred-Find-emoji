@@ -24,13 +24,16 @@ def main(wf):
     # 自定义的程序
     # 向结果中添加显示内容
     number = 0
-    tmp = wf.filter(input_data, data.keys(), key=lambda x: x)
+    tmp = []
+    tmp += wf.filter(input_data, data.keys(), key=lambda x: x, max_results=3)
+    raw_data = wf.filter(input_data, data.items(),
+                         key=lambda x: u''.join(x[1]['keywords']), max_results=40)
+    for i in raw_data:
+        tmp.append(i[0])
     for i in tmp:
         number += 1
         wf.add_item(data[i]['char'], i,
                     icon="icon.png", copytext=data[i]['char'], valid=True, arg=data[i]['char'])
-        if number == 10:
-            break
 
     # 让 Alfred 显示结果
     wf.send_feedback()
