@@ -1,10 +1,11 @@
 # Alfred-Find-emoji
 
 ## 预览
-![image](https://photos-picgo.oss-cn-beijing.aliyuncs.com/img/u0qxs-lqzql.gif)
+![image](./u0qxs-lqzql.gif)
 
 ## Features
 
++ 启动`Alfred`，输入`em`启动该 workflow。
 + 使用方法 `em {query}`
 + 一键调出搜索页面, 需要先在Alfred Workflow中设置热键
 + 按`Enter`键复制表情图标
