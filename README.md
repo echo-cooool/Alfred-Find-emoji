@@ -1,7 +1,7 @@
 # Alfred-Find-emoji
 
 ## 预览
-![](https://photos-picgo.oss-cn-beijing.aliyuncs.com/img/u0qxs-lqzql.gif)
+![image](https://photos-picgo.oss-cn-beijing.aliyuncs.com/img/u0qxs-lqzql.gif)
 
 ## Features
 
