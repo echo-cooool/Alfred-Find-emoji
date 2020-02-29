@@ -22,6 +22,13 @@ python2.7
 
 [下载地址2](http://photos-picgo.oss-cn-beijing.aliyuncs.com/Find-emoji.alfredworkflow)
 
+下载完成后，点击下载的文件，之后点击导入即可
+
+![install](./install.jpeg)
+
+之后帮我点个star呗～🤝🤝
+
+
 
 
 ## TODO
